@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 3rem;
+  color: white;
+  background-color: #273036;
+}
+
+.jumbotron img{
+  border: 8px dashed #273036;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.jumbotron p {
+    margin-bottom: 0px;
+}
